@@ -4,3 +4,13 @@ button{
     background-color: #e5e7;
     border: 2px solid brown;
 }
+
+.butt{
+    display: block;
+}
+
+.fade{
+    display: flex;
+    justify-content: space-between;
+    background-color: darkolivegreen;
+}
